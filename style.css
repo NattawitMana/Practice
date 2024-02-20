@@ -1,0 +1,54 @@
+html, body {
+    background-color: #c2c5ff;
+    margin: 0;
+    padding: 0;
+}
+
+.top_head {
+    background-color: white;
+    padding: 20px;
+    position: relative;
+}
+
+.menu-item {
+    color: black;
+    font-size: 20px;
+    padding: 5px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.genshin {
+    max-width: 660px;
+    margin: auto;
+}
+
+.box {
+    background-color: rgb(254, 253, 187);
+    padding: 20px;
+    margin: 30px;
+}
+
+.game {
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.Now {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.bottom-footer {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.aa {
+    margin-left: 25px;
+}
