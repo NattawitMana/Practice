@@ -52,3 +52,7 @@ html, body {
 .aa {
     margin-left: 25px;
 }
+
+body {
+    background-color: red;
+}
